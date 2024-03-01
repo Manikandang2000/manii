@@ -219,15 +219,17 @@ h6{font-size:16px;}
     width: 300px;
     height: 180px;
     padding-left: 30px;
-    padding-top:30px ;
+    padding-bottom:250px ;
+    
 }
 
 #preview{
-    width:300px;
-    border: 1.5px solid #17a2b8;
-    background-color: --var(--previewBg);
-    padding: 15px;
-    position: relative;
+    width:250px;
+    height:180px;
+    border: 1.5px solid none;
+    background-color: none;
+    padding: 25px;
+    position:relative;
 }
 
 .corner{
