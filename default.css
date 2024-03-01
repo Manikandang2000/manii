@@ -1,4 +1,4 @@
-:root{
+ :root{
 --mainColor:#eaeaea;
 --secondaryColor:#fff;
 --borderColor:#c1c1c1;
@@ -219,17 +219,16 @@ h6{font-size:16px;}
     width: 300px;
     height: 180px;
     padding-left: 30px;
-    padding-bottom:250px ;
-    
+    padding-bottom: 250px;
 }
 
 #preview{
     width:250px;
-    height:180px;
+    height: 180px;
     border: 1.5px solid none;
-    background-color: none;
+    background-color:none;
     padding: 25px;
-    position:relative;
+    position: relative;
 }
 
 .corner{
